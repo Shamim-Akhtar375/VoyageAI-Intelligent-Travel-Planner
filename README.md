@@ -2,6 +2,8 @@
 
 VoyageAI is a modern, AI-powered travel itinerary generator built with React and Tailwind CSS. It allows users to plan their dream trips in seconds by providing personalized, day-wise itineraries based on their destination, duration, budget, and travel preferences.
 
+### 🔗 **[Live Demo](https://shamim-akhtar375.github.io/VoyageAI-Intelligent-Travel-Planner/)** | **[GitHub Repository](https://github.com/Shamim-Akhtar375/VoyageAI-Intelligent-Travel-Planner)**
+
 ## 🚀 Features
 
 - **Personalized Itineraries:** Generates custom day-by-day plans based on user input.
